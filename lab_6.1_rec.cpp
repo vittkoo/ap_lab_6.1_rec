@@ -23,7 +23,7 @@ void Print(const int* a, const int size, int i)
 
 void ProcessArray(int* a, const int size, int& count, int& sum, int i) 
 {
-    if (a[i] % 2 != 0 && a[i] % 3 == 0) {
+    if (!(a[i] % 2 != 0 && a[i] % 3 == 0)) { // непарний і кратний 3
         sum += a[i];
         count++;
         a[i] = 0;

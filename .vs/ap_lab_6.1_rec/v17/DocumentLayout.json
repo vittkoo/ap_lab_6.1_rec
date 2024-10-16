@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "D:\\VS_projects\\ap_lab_6.1_rec\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{25F30A77-29C5-4CE3-B03D-F128BE071962}|..\\UnitTest_6.1_rec\\UnitTest_6.1_rec.vcxproj|D:\\VS_projects\\UnitTest_6.1_rec\\UnitTest_6.1_rec.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E0502DF0-8523-481C-A0CF-8147D7F59F64}|ap_lab_6.1_rec.vcxproj|D:\\VS_projects\\ap_lab_6.1_rec\\lab_6.1_rec.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E0502DF0-8523-481C-A0CF-8147D7F59F64}|ap_lab_6.1_rec.vcxproj|solutionrelative:lab_6.1_rec.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25F30A77-29C5-4CE3-B03D-F128BE071962}|..\\UnitTest_6.1_rec\\UnitTest_6.1_rec.vcxproj|D:\\VS_projects\\UnitTest_6.1_rec\\UnitTest_6.1_rec.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,30 +17,29 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "UnitTest_6.1_rec.cpp",
               "DocumentMoniker": "D:\\VS_projects\\UnitTest_6.1_rec\\UnitTest_6.1_rec.cpp",
               "RelativeDocumentMoniker": "..\\UnitTest_6.1_rec\\UnitTest_6.1_rec.cpp",
               "ToolTip": "D:\\VS_projects\\UnitTest_6.1_rec\\UnitTest_6.1_rec.cpp",
               "RelativeToolTip": "..\\UnitTest_6.1_rec\\UnitTest_6.1_rec.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-15T22:38:14.333Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-15T22:38:14.333Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "lab_6.1_rec.cpp",
               "DocumentMoniker": "D:\\VS_projects\\ap_lab_6.1_rec\\lab_6.1_rec.cpp",
               "RelativeDocumentMoniker": "lab_6.1_rec.cpp",
               "ToolTip": "D:\\VS_projects\\ap_lab_6.1_rec\\lab_6.1_rec.cpp",
               "RelativeToolTip": "lab_6.1_rec.cpp",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAwDgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAiwDgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-15T22:25:40.755Z",
               "EditorCaption": ""
